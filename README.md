@@ -4,10 +4,11 @@ I am a:
 
   - Ruby on Rails Software Engineer 👩🏼‍💻
 
-🔭 I’m currently working on ...
+
+- 🔭 I’m currently working on ...
       - Building an application that uses Stripe.
   
-🌱 I’m currently learning ...
+-🌱 I’m currently learning ...
       - How to embed Strip forms into my application.
   
 
@@ -16,6 +17,7 @@ Contact info
   - Website: https://ashley.boehs.com
   
 Projects:
+
     url_shortener[GitHub Actions CI/CD, Pagination, Metadata, Hatchbox.io, Ruby on Rails, Tailwind-CSS, Base62, Devise]
         - Learned production deployment strategies using Hatchbox.io, find bugs, write tests, and deploy fixes.
   
