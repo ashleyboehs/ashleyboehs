@@ -4,6 +4,9 @@ I am a:
 - Ruby on Rails Software Engineer 👩🏼‍💻
 
 
+  
+
+
 🔭 I’m currently working on 
 - Building an application that uses Stripe.
   
