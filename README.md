@@ -8,10 +8,10 @@ I am a:
 
 
 🔭 I’m currently working on 
-- Building an application that uses Stripe.
+  - Building an application that uses Stripe.
   
 🌱 I’m currently learning
-- How to embed Stripe forms into my application.
+  - How to embed Stripe forms into my application.
   
 
 Contact info
