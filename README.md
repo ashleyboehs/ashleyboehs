@@ -4,11 +4,11 @@ I am a:
     Ruby on Rails Software Engineer 👩🏼‍💻
 
 
-🔭 I’m currently working on ...
-    Building an application that uses Stripe.
+🔭 I’m currently working on 
+    - Building an application that uses Stripe.
   
-🌱 I’m currently learning ...
-     How to embed Strip forms into my application.
+🌱 I’m currently learning
+     - How to embed Stripe forms into my application.
   
 
 Contact info
