@@ -17,12 +17,12 @@ Contact info
   
 Projects:
 
-    url_shortener[GitHub Actions CI/CD, Pagination, Metadata, Hatchbox.io, Ruby on Rails, Tailwind-CSS, Base62, Devise]
-        - Learned production deployment strategies using Hatchbox.io, find bugs, write tests, and deploy fixes.
+url_shortener[GitHub Actions CI/CD, Pagination, Metadata, Hatchbox.io, Ruby on Rails, Tailwind-CSS, Base62, Devise]
+ - Learned production deployment strategies using Hatchbox.io, find bugs, write tests, and deploy fixes.
   
-    password_manager [ActionRecord Encryption, Javascript Clipboard, Ruby on Rails, Hotwire, Rails Tailwind-CSS, Fly.io,]
-        - Learned the ActiveRecord Encryption method.
-        - Implemented a Javascript clipboard function.
+password_manager [ActionRecord Encryption, Javascript Clipboard, Ruby on Rails, Hotwire, Rails Tailwind-CSS, Fly.io,]
+ - Learned the ActiveRecord Encryption method.
+ - Implemented a Javascript clipboard function.
     
     home_blog[Amazon S3(aws), IAM, Render, pagy, ActionText, ActionStorage, Render, Ruby on Rails, Hotwire, Rails Tailwind-CSS]
         - Implemented ActiveStorage with S3 backend with CORS.
