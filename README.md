@@ -1,17 +1,17 @@
 Ashley Boehs
 
 I am a:
-- Ruby on Rails Software Engineer 👩🏼‍💻
+- Ruby on Rails Software Engineer for CMS 👩🏼‍💻
 
 
   
 
 
 🔭 I’m currently working on:
-    - Building an application that uses Stripe.
+    - Building my own Apple app to turn sheet music pages using music cues
   
 🌱 I’m currently learning:
-    - How to embed Stripe forms into my application.
+    - How to make New Relic alerting better within FedRamp
   
 
 Contact info
