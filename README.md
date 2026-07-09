@@ -8,7 +8,7 @@ I am a:
 
 
 🔭 I’m currently working on:
-    - Building my own Apple app to turn sheet music pages using music cues
+    - Buidling an automated dectection feature for New Relic that collects and displays Puma metrics.
   
 🌱 I’m currently learning:
     - How to make New Relic alerting better within FedRamp
